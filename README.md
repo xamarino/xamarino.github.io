@@ -1,6 +1,5 @@
-# xamarino.github.io
+# Xamarino
 
-A brazilian Xamarin blog made with Jekyll
-=========================================
+> A brazilian Xamarin blog made with Jekyll
 
-> Under construction.
+Under construction.
